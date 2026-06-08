@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tennis Court Booking System
 
 ## Project Overview
@@ -67,3 +68,6 @@ Open the frontend URL shown in the terminal, usually `http://localhost:5173`.
 ## What We Learned
 
 Through this project, we practiced designing a full-stack MERN application, creating RESTful API endpoints, connecting Express to MongoDB, using React Router for multiple pages, consuming backend APIs from React, and handling user input and API errors in the frontend.
+=======
+# tennis-court-booking-system
+>>>>>>> 405ace824e3b9fd28031935a826c5dc5f9e7fb16
